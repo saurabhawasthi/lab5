@@ -124,3 +124,15 @@ cout<<endl<<endl;
     display(&head);
 	return 0;
 }
+ ////////////////////////////////////////////////////////////////////////////////////////////
+for bubble sort array (bsa)
+bubble sort linked list (bsl)
+quick sort array (qsa)
+quick sort linked list (qsl)
+Table for execution time in seconds
+No of elements  		5 		10		15		20		25
+	bsa                    7.027            14.01         18.81            28.75           34.78
+	bsl                    0.544            1.451         1.705            1.583		1.393
+	qsa 			1.868		0.892		0.842		0.831		0.829
+	qsl			2.144		3.769		3.954		4.855		5.244
+///////////////////////////////////////////////////////////////////////////////////////////////
